@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0P7vpsGmDZtyQpUSR7cN/h2cNpozhIusO0dDZZGDXmZYmYXrep4RId0iZtPPfQDOxU+4YmAGkoNLClz8t+MYiw==",
+  "dgSpecHash": "fgIbT0EhV00QoV3UyFvLKR+OvNBUhR9i7GM35dK7oWqVmRUX6K2UitMUi1w9GzBG+3Bgs+C65eGM8wss3HLYWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\a849144\\source\\repos\\micro-docker-k8s\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\a849144\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
   "logs": []
 }
