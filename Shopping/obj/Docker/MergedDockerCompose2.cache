@@ -26,6 +26,23 @@ services:
       - mode: ingress
         target: 80
         protocol: tcp
+  shopping.db:
+    container_name: shoppingdb
+    image: mongo
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 27017
+        published: "27017"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: bind
+        source: /site
+        target: /data/db
+        bind:
+          create_host_path: true
 networks:
   default:
     name: dockercompose6447782633303492407_default
