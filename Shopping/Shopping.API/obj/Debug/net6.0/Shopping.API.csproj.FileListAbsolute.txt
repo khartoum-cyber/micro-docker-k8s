@@ -30,3 +30,16 @@ C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\obj\Debug\n
 C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\obj\Debug\net6.0\Shopping.API.pdb
 C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\obj\Debug\net6.0\Shopping.API.genruntimeconfig.cache
 C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\obj\Debug\net6.0\ref\Shopping.API.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\a849144\source\repos\micro-docker-k8s\Shopping\Shopping.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
