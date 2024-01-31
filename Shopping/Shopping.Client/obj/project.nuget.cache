@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "fgIbT0EhV00QoV3UyFvLKR+OvNBUhR9i7GM35dK7oWqVmRUX6K2UitMUi1w9GzBG+3Bgs+C65eGM8wss3HLYWQ==",
+  "dgSpecHash": "rKxCHMbDXJgVBt/uMqlL5wrZUBxs+8ZkCU9P34csRFm6d9VbMNqnUA29mubNQQAhqBRdG47URa7jMFxBcCcCmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\a849144\\source\\repos\\micro-docker-k8s\\Shopping\\Shopping.Client\\Shopping.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\a849144\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+    "C:\\Users\\a849144\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512",
+    "C:\\Users\\a849144\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
